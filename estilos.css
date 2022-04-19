@@ -28,13 +28,16 @@
 .grande {
     font-size: larger;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .azul {
     color: #0A0EFA;
+    cursor: pointer;
 }
 
 .rojo02 {
     color: #FF1200;
     text-decoration: underline;
+    cursor: pointer;
 }
