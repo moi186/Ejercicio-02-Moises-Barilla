@@ -1,0 +1,40 @@
+* {
+    margin: auto;
+    padding: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+.verde {
+    color: #00E61F;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.rojo01 {
+    color: #FF1200;
+    cursor: pointer;
+}
+
+.doble {
+    text-decoration: overline underline;
+    cursor: pointer;
+}
+
+.doble:hover {
+    color: #756B6A;
+}
+
+.grande {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.azul {
+    color: #0A0EFA;
+}
+
+.rojo02 {
+    color: #FF1200;
+    text-decoration: underline;
+}
